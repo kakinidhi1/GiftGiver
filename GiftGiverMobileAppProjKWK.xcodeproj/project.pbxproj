@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F61B45E24FB6A4100D6E92A /* GiftGiverMobileAppProjKWK in Resources */ = {isa = PBXBuildFile; fileRef = 4F61B45D24FB6A4000D6E92A /* GiftGiverMobileAppProjKWK */; };
+		4F61B45F24FB6A4100D6E92A /* GiftGiverMobileAppProjKWK in Resources */ = {isa = PBXBuildFile; fileRef = 4F61B45D24FB6A4000D6E92A /* GiftGiverMobileAppProjKWK */; };
+		4F61B46024FB6A4100D6E92A /* GiftGiverMobileAppProjKWK in Resources */ = {isa = PBXBuildFile; fileRef = 4F61B45D24FB6A4000D6E92A /* GiftGiverMobileAppProjKWK */; };
 		4FC6CF4824D0C1CE00E538D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FC6CF4724D0C1CE00E538D4 /* AppDelegate.swift */; };
 		4FC6CF4A24D0C1CE00E538D4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FC6CF4924D0C1CE00E538D4 /* SceneDelegate.swift */; };
 		4FC6CF4C24D0C1CE00E538D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FC6CF4B24D0C1CE00E538D4 /* ViewController.swift */; };
@@ -36,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F61B45D24FB6A4000D6E92A /* GiftGiverMobileAppProjKWK */ = {isa = PBXFileReference; lastKnownFileType = folder; name = GiftGiverMobileAppProjKWK; sourceTree = "<group>"; };
 		4FC6CF4424D0C1CE00E538D4 /* GiftGiverMobileAppProjKWK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GiftGiverMobileAppProjKWK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FC6CF4724D0C1CE00E538D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4FC6CF4924D0C1CE00E538D4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +109,7 @@
 				4FC6CF4924D0C1CE00E538D4 /* SceneDelegate.swift */,
 				4FC6CF4B24D0C1CE00E538D4 /* ViewController.swift */,
 				4FC6CF4D24D0C1CE00E538D4 /* Main.storyboard */,
+				4F61B45D24FB6A4000D6E92A /* GiftGiverMobileAppProjKWK */,
 				4FC6CF5324D0C1D200E538D4 /* Assets.xcassets */,
 				4FC6CF5524D0C1D200E538D4 /* LaunchScreen.storyboard */,
 				4FC6CF5824D0C1D200E538D4 /* Info.plist */,
@@ -236,6 +241,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4FC6CF5724D0C1D200E538D4 /* LaunchScreen.storyboard in Resources */,
+				4F61B45E24FB6A4100D6E92A /* GiftGiverMobileAppProjKWK in Resources */,
 				4FC6CF5424D0C1D200E538D4 /* Assets.xcassets in Resources */,
 				4FC6CF4F24D0C1CE00E538D4 /* Main.storyboard in Resources */,
 			);
@@ -245,6 +251,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F61B45F24FB6A4100D6E92A /* GiftGiverMobileAppProjKWK in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +259,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F61B46024FB6A4100D6E92A /* GiftGiverMobileAppProjKWK in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
